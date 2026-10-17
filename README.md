@@ -1,2 +1,3 @@
-# leetcode-c-solutions
-My solutions to LeetCode problems in C.
+# LeetCode Solutions in C
+## Problems Solved
+- [1929. Concatenation of Array](1929-Concatenation-of-Array.c)
